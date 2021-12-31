@@ -1,4 +1,4 @@
-package com.company.lambdas;
+package com.soma.lambdas;
 
 import java.util.Comparator;
 

@@ -1,4 +1,4 @@
-package com.company;
+package com.soma;
 
 public class Main {
 
