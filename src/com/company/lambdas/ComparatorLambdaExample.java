@@ -1,4 +1,4 @@
-package lambdas;
+package com.company.lambdas;
 
 import java.util.Comparator;
 
@@ -19,6 +19,10 @@ public class ComparatorLambdaExample {
         };
 
         System.out.println("Result of comparator is: " + comparator.compare(3, 2));
+
+        /**
+         * Java >= 8
+         */
 
         Comparator<Integer> comparatorLambda = (Integer a, Integer b) -> a.compareTo(b);
 
